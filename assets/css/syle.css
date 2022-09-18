@@ -23,3 +23,16 @@ h1, h2{
     float:left;
     font-size:280%;
 }
+
+/* Nav links*/
+#menu{
+    font-size: 110%;
+    letter-spacing: 4px;
+    text-align: right;
+}
+
+#menu li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right:30px;
+}
